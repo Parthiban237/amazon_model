@@ -130,5 +130,3 @@ document.querySelectorAll('.js-delete-link')
     container.remove();
     })
   })
-
-  console.log("Checkout page loaded");
